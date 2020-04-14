@@ -3,6 +3,7 @@ require 'pry'
 # #remove_strawberry
 #   removes the strawberry ice cream from :favorite_ice_cream_flavors
 
+
   # This is the array we will be passing into the remove_strawberry method
   # contacts = {
   #   "Jon Snow" => {
