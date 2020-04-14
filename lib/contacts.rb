@@ -28,7 +28,7 @@ def remove_strawberry(contacts)
             ice_cream == "strawberry"
           end 
         end
-        binding.pry
+      #  binding.pry
       end
     end
   end
